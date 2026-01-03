@@ -628,3 +628,6 @@ textContent vs innerHTML:
 Remember: Always check if element exists before using it!
 if (element) { ... }
 */
+
+
+// Code read and understood
